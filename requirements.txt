@@ -1,0 +1,14 @@
+edge-tts
+Groq
+anthropic
+keyboard
+openai
+numpy
+Pillow
+psutil
+pygame-ce
+pystray
+requests
+sounddevice
+torch
+vosk

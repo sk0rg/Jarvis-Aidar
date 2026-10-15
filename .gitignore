@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+build/
+dist/
+release/
+vosk-model-small-ru-0.22/
+vosk-model-small-en-us-0.15/
+v4_ru.pt
+config.json
+*.log
+temp_*.wav
+temp_edge_*.mp3
+Jarvis.exe
+Jarvis.spec
